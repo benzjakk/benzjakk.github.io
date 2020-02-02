@@ -64,7 +64,7 @@ a:hover{
 }
 header .logo a{
     background-color: red;
-    background-image: url("images/benzlogo.png");
+    background-image: url('images/benzlogo.png');
     background-size: 100px;
     display: inline-block;
     background-repeat: no-repeat;
